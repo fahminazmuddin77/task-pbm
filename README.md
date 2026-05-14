@@ -97,6 +97,8 @@ flutter run -d android
 
 <img width="432" height="806" alt="Screenshot 2026-05-14 120127" src="https://github.com/user-attachments/assets/024f823d-2a62-4655-af79-cdf6f82abb84" />
 
+<img width="439" height="784" alt="Screenshot 2026-05-14 123225" src="https://github.com/user-attachments/assets/d0655a3a-2c1d-43da-801c-018cb613d8e3" />
+
 <img width="463" height="773" alt="Screenshot 2026-05-14 120144" src="https://github.com/user-attachments/assets/9e8d8842-a6d3-4170-a98b-509b137cce73" />
 
 
